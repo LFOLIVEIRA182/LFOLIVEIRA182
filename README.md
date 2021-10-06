@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Luiz Fernando
-
+- 🎓systems analysis and development student currently in 4th semester - UNINOVE
 - 🔭 I’m currently working on: looking for the first front-end job
 - 🌱 I’m currently learning:JavaScript
 - ⚡ Fun fact: I took a long time to choose which language to learn
 
 <div>
     <a href="https:github.com/LFOLIVEIRA182">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LFOLIVEIRA182&show_icons=true&theme=dracula&include_allcommits-true&count_private=true"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFOLIVEIRA182&layout-compact&langs_count-16&theme=dracula"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LFOLIVEIRA182&show_icons=true&theme=dark&include_allcommits-true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFOLIVEIRA182&layout-compact&langs_count-16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="lfo-html" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
